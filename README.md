@@ -1,5 +1,5 @@
 
-# Abbey Road · 大学生课表app
+# Abbey Road · 大学生课程表app
 
 一款全新的多平台课表应用，支持自动定闹钟、日程，借助手机上的多模态 AI（豆包、DeepSeek 等）轻松完成课表导入。
 
